@@ -1,2 +1,4 @@
-Ingot.cpp libraries/DisplayCore/Ingot
-Ingot.h libraries/DisplayCore/Ingot
+library.json libraries/DisplayCore/Ingot
+library.properties libraries/DisplayCore/Ingot
+README.md libraries/DisplayCore/Ingot
+src libraries/DisplayCore/Ingot
