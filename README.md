@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Ingot 
 
-![Ingot](https://raw.githubusercontent.com/DisplayCore/Ingot/master/Preview/Ingot.png)
+![Ingot](https://raw.githubusercontent.com/Cariad/Ingot/master/Preview/Ingot.png)
 
